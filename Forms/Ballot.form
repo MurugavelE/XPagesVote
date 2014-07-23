@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257D1E00360A6B'>
+<noteinfo noteid='162' unid='4EFDD8454D82C0DA49257D1E003955EE' sequence='2'>
+<created><datetime>20140723T192615,50+09</datetime></created>
+<modified><datetime>20140723T193300,60+09</datetime></modified>
+<revised><datetime>20140723T193300,58+09</datetime></revised>
+<lastaccessed><datetime>20140723T193300,60+09</datetime></lastaccessed>
+<addedtofile><datetime>20140723T192616,21+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></wassignedby>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>Ballot</text></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$SubForms'><text>CommonMetaInfo</text></item>
+<item name='$SubForm_RepIDs' sign='true'><text>0000000000000000</text></item>
+<item name='$Flags'><text/></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>Ballot</text></item>
+<item name='BallotId' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='ChoiceId' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='$Fields'><textlist><text>ChoiceId</text><text>BallotId</text></textlist></item>
+<item name='$Body' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQEASQ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8IAAEAAAqBAoMEAQCF/xIA
+AQAACkJhbGxvdElkOgndBgAAiv/+/1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAB4AHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIr/LACKAAAFADACAAAA
+AAAAAgEAAAoAAAAAAAAAAAgAAAAAAEJhbGxvdElkYg4BAIQAAAAAAAAAAADeBgAAiv+F/wgAAQAA
+CoECgwQBAIX/EgABAAAKQ2hvaXNlSWQ6Cd0GAACK//7/UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAHgAeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiv8s
+AIoAAAUAMAIAAAAAAAACAQAACgAAAAAAAAAACAAAAAAAQ2hvaWNlSWRiDgEAhAAAAAAAAAAAAN4G
+AACK/4X/CAABAAAKgQKDBAEAhf8IAAEAAAqBAoMEAQCF/wgAAQAACt0GAACt/3H/MAAAAAAAAwAY
+AA4AAAAAAAAAAAAAAAAAAAAAAAAAAABDb21tb25NZXRhSW5mb63/GwAOAAgAAAAPAENvbW1vbk1l
+dGFJbmZvAACuAt4GAACuAIX/CAABAAAKgQKDBAEAhf8IAAEAAAo=
+</rawitemdata></item></note>
+

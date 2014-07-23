@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257D1E00360A6B'>
+<noteinfo noteid='166' unid='0B32BFBFC7235A3749257D1E0039633C' sequence='9'>
+<created><datetime>20140723T192649,56+09</datetime></created>
+<modified><datetime>20140723T192954,61+09</datetime></modified>
+<revised><datetime>20140723T192954,60+09</datetime></revised>
+<lastaccessed><datetime>20140723T192954,61+09</datetime></lastaccessed>
+<addedtofile><datetime>20140723T192650,82+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></wassignedby>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>CommonMetaInfo</text></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$Flags'><text>CUAx3</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>CommonMetaInfo</text></item>
+<item name='$Body' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQEASQ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8IAAEAAArdBgEAyf/J/xAA
+BQAAAGQAOQAAAP//0ggBAAAAAADeBgEAyf+F/xEAAQAACk5vdGUgSUQ6CQDdBgAArf+p/wwAAQAY
+AAQAAACF/wgAAQAACqoC3gYAAK4Ahf8IAAEAAAqBAoMEAQCF/w4AAQAAClVOSUQ6Cd0GAACt/6n/
+JAABABgABAAYABgAAAAKAJAAVgEDAAcADAAFAAkwUzBFAIX/CAABAAAKqgLeBgAArgCF/wgAAQAA
+CoECgwQBAIX/FQABAAALQ3JlYXRlIGRhdGU6CQDdBgAArf+p/xYAAQAYAAQACgAKAAAACABpAAMA
+hf8IAAEAAAqqAt4GAACuAIX/CAABAAAL
+</rawitemdata></item></note>
+
